@@ -15,4 +15,41 @@
 📈 Currently exploring opportunities in the VC space, building HairHaven and exploring algorithmic trading.
 
 Feel free to check out my projects and connect with me!
+Skills:
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interests:
+Public Speaking: I work as a part-time professional Emcee at weddings, parties, and professional events!
+Exercise: I love running, weightlifting, hiking, and playing sports.
+Music: Passionate about playing and listening to music.
