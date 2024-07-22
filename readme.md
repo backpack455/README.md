@@ -12,7 +12,7 @@
 
 🌟 Enthusiastic about innovation, entrepreneurship, and leveraging technology to solve real-world problems. Notable projects include a gunshot detection alarm system that placed 3rd in the Michigan Science Fair.
 
-📈 Currently exploring opportunities in the 2024 Technology Summer Analyst Program in New York and actively participating in HackMIT's events and activities.
+📈 Currently exploring opportunities in the VC space, building HairHaven and exploring algorithmic trading.
 
 Feel free to check out my projects and connect with me!
 
