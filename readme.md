@@ -1,6 +1,6 @@
 👋 Hi, I'm Om Joshi!
 
-📚 Currently pursuing a B.B.A. in Finance from the Stephen M. Ross School of Business and a B.S.E. in Computer Science with a Minor in Mathematics from the College of Engineering at the University of Michigan.
+📚 Currently pursuing a B.B.A. in Finance from the Stephen M. Ross School of Business and a B.S.E. in Computer Science with a Minor in Mathematics at the University of Michigan.
 
 💼 Experienced in IT Project Management, Software Development, and AI Research with internships at Blue Cross Blue Shield of Michigan, Desi Dance Network Inc., Youngsoft Inc., and Stanford Center for Artificial Intelligence in Medicine and Imaging.
 
