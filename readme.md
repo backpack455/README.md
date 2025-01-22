@@ -6,7 +6,7 @@
 
 🚀 Passionate about blockchain technology, complexity theory, and the intersection of business and technology. Actively involved in Michigan Blockchain, PBL (Professional Business Fraternity), and V1 Michigan.
 
-🏆 Achievements include 3x AIME Qualifier, 22x Hackathon Winner, 2x Congressional App Challenge Winner, and a proud recipient of Regents and Frederick Matthaei Scholar.
+🏆 Achievements include 3x AIME Qualifier, 32x Hackathon Winner, 2x Congressional App Challenge Winner, and a proud recipient of Regents and Frederick Matthaei Scholar.
 
 🔧 Proficient in Agile/Waterfall methodologies, full-stack development, and a variety of programming languages and tools including Python, C++, React.js, Docker, and Google Cloud APIs.
 
